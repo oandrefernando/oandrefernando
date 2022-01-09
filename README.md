@@ -1,9 +1,9 @@
-### Olá eu sou o Andre Fernando
+### // Olá eu sou o Andre Fernando!! //
 
 - 🔭 Um futuro desenvolvedor
 - 🌱 Estudando programação
 
-<div align="center">
+<div align="">
   <a href="https://github.com/oandrefernando">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oandrefernando&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oandrefernando&layout=compact&langs_count=7&theme=dark"/>
